@@ -25,7 +25,7 @@ Anwendungen mit Fokus auf Struktur, Wartbarkeit und Datenanbindung
 ### 📊 Datenanalyse
 
 Auswertung und Visualisierung von Daten zur Identifikation von Mustern und Optimierungspotenzialen
-→ Python · Pandas · Power BI
+→ Python · Pandas · KNIME · Power BI
 
 ### 🛠️ Tools & Anwendungen
 
@@ -38,7 +38,7 @@ https://frankwuensch.github.io/DigitaleBewerbungsmappe/
 
 ## 🛠️ Technologien
 
-**Python · JavaScript · SQL · Django · Pandas · Power BI · HTML · CSS · Tailwind · Git**
+**Python · JavaScript · SQL · Django · Pandas · Power BI · KNIME · HTML · CSS · TailwindCSS · Git · Docker**
 
 ---
 
