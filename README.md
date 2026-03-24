@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Frank Wünsch
 
-<!--
-**FrankWuensch/FrankWuensch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fullstack Development · Data Analysis
 
-Here are some ideas to get you started:
+Ich entwickle Anwendungen, die Daten erfassen, verarbeiten und verständlich darstellen.
+Mein Fokus liegt auf der Verbindung von **Webentwicklung und Datenanalyse**, um aus Daten echten Mehrwert zu schaffen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Schwerpunkte
+
+* 🌐 Entwicklung moderner Webanwendungen
+* 📊 Analyse und Visualisierung von Daten
+* 🔗 Aufbau datengetriebener Anwendungen
+
+---
+
+## 🧩 Ausgewählte Projekte
+
+### 🌐 Webanwendungen
+
+Anwendungen mit Fokus auf Struktur, Wartbarkeit und Datenanbindung
+→ Django · SQL · APIs · Frontend
+
+### 📊 Datenanalyse
+
+Auswertung und Visualisierung von Daten zur Identifikation von Mustern und Optimierungspotenzialen
+→ Python · Pandas · Power BI
+
+### 🛠️ Tools & Anwendungen
+
+Praktische Softwarelösungen mit klarem Nutzen im Alltag oder technischen Umfeld
+
+👉 Alle Projekte ansehen
+https://frankwuensch.github.io/DigitaleBewerbungsmappe/
+
+---
+
+## 🛠️ Technologien
+
+**Python · JavaScript · SQL · Django · Pandas · Power BI · HTML · CSS · Tailwind · Git**
+
+---
+
+## 🎯 Ziel
+
+Position im Bereich **Fullstack Entwicklung und Datenanalyse**
+mit Fokus auf datengetriebene Anwendungen und praktische Lösungen
+
+---
+
+## 📫 Kontakt
+
+[wuensch.frank@web.de](mailto:wuensch.frank@web.de)
+LinkedIn Profil ergänzen
+
+---
+
+⭐️ Offen für Austausch und spannende Projekte
