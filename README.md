@@ -52,7 +52,7 @@ mit Fokus auf datengetriebene Anwendungen und praktische Lösungen
 ## 📫 Kontakt
 
 [wuensch.frank@web.de](mailto:wuensch.frank@web.de)
-LinkedIn Profil ergänzen
+[LinkedIn](https://www.linkedin.com/in/frank-w%C3%BCnsch/)
 
 ---
 
